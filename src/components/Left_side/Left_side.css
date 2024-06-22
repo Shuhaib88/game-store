@@ -1,0 +1,38 @@
+.leftnavbar, th{
+    background: #17181a;
+    color: #ffffff;
+    width: 9%;
+    height: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+
+}
+/* border: 1px solid; */
+
+.firstth{
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+.gamex{
+    padding-top: 0px;
+}
+
+.icon{
+    padding-top: 150px;
+}
+
+th{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.share{
+    width: 6%;
+    padding-top: 55px;
+    padding-bottom: 0px;
+}
+
+a{
+    color: #ffffff;
+}
